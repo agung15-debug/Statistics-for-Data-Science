@@ -107,11 +107,20 @@ Inferential statistics have two main uses:
 ### Confidence Interval ###
 In frequentist statistics, a confidence interval (CI) is a range of estimates for an unknown parameter. A confidence interval is computed at a designated confidence level; the 95% confidence level is most common, but other levels, such as 90% or 99%, are sometimes used
 
-Step for calculate confidence interval on python :
-
-
 ### Hypothesis Testing ###
 Hypothesis testing is an act in statistics whereby an analyst tests an assumption regarding a population parameter. The methodology employed by the analyst depends on the nature of the data used and the reason for the analysis.
 
 Hypothesis testing is used to assess the plausibility of a hypothesis by using sample data. Such data may come from a larger population, or from a data-generating process. The word "population" will be used for both of these cases in the following descriptions.
 
+**Two Tailed Test**
+A two-tailed test, in statistics, is a method in which the critical area of a distribution is two-sided and tests whether a sample is greater than or less than a certain range of values. It is used in null-hypothesis testing and testing for statistical significance. If the sample being tested falls into either of the critical areas, the alternative hypothesis is accepted instead of the null hypothesis.
+
+On two tailed Test, there are two kind of test. First, T-test refers to a univariate hypothesis test based on t-statistic, wherein the mean is known, and population variance is approximated from the sample. On the other hand, Z-test is also a univariate test that is based on standard normal distribution.
+
+Different between Z-test and T-test :
+| BASIS FOR COMPARISON      | T-TEST         |Z-TEST    |
+| ------------- |:-------------| :-----|
+| Meaning      | T-test refers to a type of parametric test that is applied to identify, how the means of two sets of data differ from one another when variance is not given. | Z-test implies a hypothesis test which ascertains if the means of two datasets are different from each other when variance is given.|
+| Based on      | Student-t distribution     |   Normal distribution |
+| Population variance | Unknown      |    Known |
+|Sample Size | Small | Large |
