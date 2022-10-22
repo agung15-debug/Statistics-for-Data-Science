@@ -1,5 +1,15 @@
 # Statistics for Data Science
 
+## Descriptive Statistic ##
+- Distribution
+Distribution describes how values are distributed for a field. In other words, the statistical distribution shows which values are common and uncommon
+
+- Skewness
+Measure of the asymmetry of a distribution. A distribution is asymmetrical when its left and right side are not mirror images. A distribution can have right (or positive), left (or negative), or zero skewness. A right-skewed distribution is longer on the right side of its peak, and a left-skewed distribution is longer on the left side of its peak
+
+- Correlation Coefficient
+Correlation is a statistical measure that expresses the extent to which two variables are linearly related (meaning they change together at a constant rate). It’s a common tool for describing simple relationships without making a statement about cause and effect
+
 ## Inferential Statistics ##
 Inferential statistics help you come to conclusions and make predictions based on your data.
 
