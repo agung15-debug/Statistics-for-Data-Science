@@ -1,5 +1,35 @@
 # Statistics for Data Science
 
+## Introduction to Statistics
+
+Statistics is the discipline that concerns the collection, organization, analysis, interpretation, and presentation of data.
+
+### Types of Statistics
+1. Descriptive Statistics
+2. Inferential Statistics
+
+### Population adn Sample in Statistics
+1. Population is the entire group that you wish to draw data from (and subsequently draw conclusions about).
+2. Sample is a representative group of a larger population. 
+
+### Data Types in Statistics
+1. Categorical
+- Nominal Level - Only labels data in different categories, example categorizing as : Male or Female
+- Ordinal Level - Data can be arranged and ordered but difference doesnt make sense, for example: ranking as 1st, second and 3rd.
+
+2. Numerical
+a. First division:
+- Interval Level - Data can be ordered as well as differences can be taken, but multiplication/division is not possible. for example: categorizing as different years like 2011, 2012 etc
+- Ratio Level - Ordering, difference and multiplication/division - all operations are possible. For example: Age in years, temperature in degrees etc.
+
+b. Second division:
+- Discrete Variable - the variable can only take point values and no values in between. For example: Number of people in a bus.
+- Continuous Variable - the variable can take any value within an interval, for example height of a person.
+
+## Probability
+
+Probability is the branch of mathematics concerning numerical descriptions of how likely an event is to occur, or how likely it is that a proposition is true.
+
 ## Descriptive Statistic ##
 - Distribution
 
